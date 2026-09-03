@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 ront-hash
 rociozijlstra@gmail.com
+=======
+guanico
+nicoaguilar396@gmail.com
+>>>>>>> 3d49029db5a17c899af289c12b8f9357f03a8bc5
